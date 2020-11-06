@@ -16,3 +16,6 @@ A simulink model of a V2G converter and a controller for a simulated battery loa
 3. load reduces to 2.1kW (2s to 3s)
 4. The load starts delivering 1kW power to the grid (3s to 4s)
 
+
+https://github.com/PRATINAVKASHYAP/Vehicle-to-grid-V2G-/blob/main/waveforms.JPG
+
