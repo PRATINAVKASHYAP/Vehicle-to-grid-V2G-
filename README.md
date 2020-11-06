@@ -1,6 +1,7 @@
 # Vehicle-to-grid-V2G-
 A simulink model of a V2G converter and a controller for a simulated battery load.
 
+![alt text](https://github.com/PRATINAVKASHYAP/Vehicle-to-grid-V2G-/blob/main/full%20simulation.JPG)
 
 
 ## **OBJECTIVES** 
