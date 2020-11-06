@@ -10,7 +10,7 @@ A simulink model of a V2G converter and a controller for a simulated battery loa
 
 
 
-## **To simulate different conditions we have taken 4 instances: **
+## **To simulate different conditions we have taken 4 instances:**
 1. A normal 2.1kW load (0s to 1s)
 2. Load increases to 4.5kW (1s to 2s)
 3. load reduces to 2.1kW (2s to 3s)
